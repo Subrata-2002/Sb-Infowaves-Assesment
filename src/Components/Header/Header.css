@@ -1,0 +1,173 @@
+.sec {
+    top: 0px;
+    left: 0px;
+    width: 1921px;
+    height: 214px;
+    opacity: 1;
+    position: absolute;
+}
+
+.first {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 42px;
+    /* UI Properties */
+    background: transparent linear-gradient(104deg, #F05454 0%, #30475E 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+}
+
+p {
+    position: absolute;
+    /* top: 11px; */
+    left: 834px;
+    width: 253px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 16px/20px Outfit;
+    color: #FFFFFF;
+    background-color: transparent;
+    letter-spacing: 0px;
+    opacity: 1;
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    top: 73px;
+    position: relative;
+    background-color: black;
+}
+
+.hImg {
+    top: 73px;
+    left: 150px;
+    width: 238px;
+    height: 53px;
+    background: transparent url('img/vertical LOGO.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.srch {
+
+    left: 481px;
+    width: 715px;
+    height: 57px;
+    /* UI Properties */
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    border: 1px solid #E6E6E6;
+    border-radius: 30px;
+    opacity: 1;
+    position: absolute;
+    border: 1px solid black;
+}
+
+.srchIcon {
+    position: fixed;
+    color: #30475E;
+    top: 90px;
+    left: 1160px;
+    width: 16px;
+    height: 16px;
+    background: transparent url('img/Icon feather-search.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Icons {
+    width: 18px;
+    height: 18px;
+    /* UI Properties */
+    background: transparent 0% 0% no-repeat padding-box;
+    margin-top: 10px;
+    gap: 10px;
+    opacity: 1;
+}
+
+.text {
+    width: 103px;
+    height: 20px;
+    text-align: left;
+    font: normal normal normal 16px/20px Outfit;
+    letter-spacing: 0px;
+
+    color: #121212;
+    opacity: 1;
+}
+
+.text2 {
+    width: auto;
+    height: 18px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 14px/18px Outfit;
+    letter-spacing: 0px;
+    color: #AFAFAF;
+    opacity: 1;
+}
+
+.gaps {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin-left: 6px;
+}
+
+.item1 {
+    display: flex;
+    position: absolute;
+    left: 1299px;
+
+}
+
+.item2 {
+    display: flex;
+    position: absolute;
+    left: 1486px;
+}
+
+.item3 {
+    display: flex;
+    position: absolute;
+    left: 1673px;
+}
+
+.third {
+    display: flex;
+    flex-direction: row;
+    top: 156px;
+    position: absolute;
+    /* color: aquamarine; */
+    /* background-color: black; */
+}
+
+.catgo {
+    left: 140px;
+    width: 178px;
+    height: 58px;
+
+    background: #F05454 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: relative;
+}
+.textcat{
+    left: 188px;
+    top: 24px;
+    position: relative;
+    text-align: left;
+    font: normal normal normal 16px/20px Outfit;
+    letter-spacing: 0px;
+    color: #787878;
+    opacity: 1;
+    word-spacing: 24px;
+}
+.spanText {
+    color:white;
+    background: none;
+   justify-content: center;
+   display: grid;
+   top: 12px;
+   position: inherit;
+
+} 
