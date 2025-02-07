@@ -38,7 +38,7 @@ p {
     flex-direction: column;
     top: 73px;
     position: relative;
-    background-color: black;
+    /* background-color: black; */
 }
 
 .hImg {
@@ -65,7 +65,7 @@ p {
 }
 
 .srchIcon {
-    position: fixed;
+    position:sticky;
     color: #30475E;
     top: 90px;
     left: 1160px;

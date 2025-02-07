@@ -6,12 +6,12 @@ import Body from "./Body/Body"
 
 const Home = () => {
   return (
-   <>
- 
-   <Header/>
-    <Body/>
-    <Footer/>
-   </>
+    <>
+
+      <Header />
+      <Body />
+      <Footer />
+    </>
   )
 }
 
