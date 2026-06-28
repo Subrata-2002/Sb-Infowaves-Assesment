@@ -13,7 +13,7 @@ const Header = () => {
                 <div style={{ position: 'absolute', left:"140px"}}>
                     <img src="../Images/vertical LOGO.png" alt="" srcset="" />
                 </div>
-                <div >
+                <div style={{display:"flex", alignItems:"center", justifyContent:"center", position:"relatives" }} >
                     <input type="search" id="gsearch" name="gsearch" className='srch' placeholder=' Search for products...' />
                     <img src="../Icon/Icon feather-search.png" alt="" className='srchIcon' />
                 </div>

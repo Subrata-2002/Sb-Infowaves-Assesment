@@ -13,28 +13,29 @@ export const DailyMeals = [
     },
     {
         id: 3,
-        imgUrl: "./public/Images/Mask Group 13-2.png",
-        discount: "10% ",
-        title: "Table Throw",
-    },
-    {
-        id: 4,
-        imgUrl:"./public/Images/Mask Group 16.png",
+        imgUrl:"./public/Images/Mask Group 13.png",
         discount:"40% ",
         title: "Custom Sign",
     },
     {
-        id: 5,
-        imgUrl: "./public/Images/Mask Group 16-4.png",
-        discount: "50% ",
-        title: "Arcylic Signs",
-    },
-    {
-        id: 6,
-        imgUrl: "./public/Images/Mask Group 16-1.png",
-        discount: "60% ",
+        id: 4,
+        imgUrl: "./public/Images/Mask Group 13-2.png",
+        discount: "10% ",
         title: "Table Throw",
     },
+   
+    // {
+    //     id: 5,
+    //     imgUrl: "./public/Images/Mask Group 16-4.png",
+    //     discount: "50% ",
+    //     title: "Arcylic Signs",
+    // },
+    // {
+    //     id: 6,
+    //     imgUrl: "./public/Images/Mask Group 16-1.png",
+    //     discount: "60% ",
+    //     title: "Table Throw",
+    // },
 ]
 
 export const Marketing = [
@@ -69,37 +70,37 @@ export const Marketing = [
         price: "32.40"
     },
     {
-        id: 3,
+        id: 6,
         imgUrl: "./public/Images/Mask Group 16-1.png",
         title: "Brochures",
         price: "05.00"
     },
     {
-        id: 4,
+        id: 7,
         imgUrl: "./public/Images/Mask Group 16-2.png",
         title: "Post Cards",
         price: "04.00"
     },
     {
-        id: 5,
+        id: 8,
         imgUrl: "./public/Images/Mask Group 16-3.png",
         title: "Note Pads",
         price: "32.40"
     },
     {
-        id: 3,
+        id: 9,
         imgUrl: "./public/Images/Mask Group 16-1.png",
         title: "Brochures",
         price: "05.00"
     },
     {
-        id: 4,
+        id: 10,
         imgUrl: "./public/Images/Mask Group 16-2.png",
         title: "Post Cards",
         price: "04.00"
     },
     {
-        id: 5,
+        id: 11,
         imgUrl: "./public/Images/Mask Group 16-3.png",
         title: "Note Pads",
         price: "32.40"

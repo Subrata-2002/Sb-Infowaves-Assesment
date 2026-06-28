@@ -65,6 +65,7 @@
 }
 
 .firstText4 {
+  display: flex;
   top: 290px;
   left: 300px;
   width: 175px;
@@ -72,7 +73,7 @@
   border: 1px solid #FFFFFF;
   border-radius: 30px;
   opacity: 1;
-  text-align: center;
+  align-items: center;
   justify-content: center;
 }
 
